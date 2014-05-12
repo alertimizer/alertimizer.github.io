@@ -1,0 +1,10 @@
+# Site settings
+title: Alertimizer-Wiki
+email: contact@alertimizer.com
+description: "This is the wiki page that contains all the how-tos required to work with your Alertimizer Dashboard."
+baseurl: ""
+url: "http://www.alertimizer.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
