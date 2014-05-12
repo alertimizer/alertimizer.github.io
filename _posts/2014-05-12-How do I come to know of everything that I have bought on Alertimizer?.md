@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "How do I come to know of everything that I have bought on Alertimizer?"
-date:   2014-05-12 15:06:51
-categories: jekyll update
+date:   2014-05-12 15:10:51
 ---
 
 *  Head over to your alertimizer dashboard.

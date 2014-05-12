@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "How to know how many SMS and Phone Call credits do I have left?"
-date:   2014-05-12 15:06:51
-categories: jekyll update
+date:   2014-05-12 15:45:51
 ---
 
 1. Head over to your alertimizer dashboard.

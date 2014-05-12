@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "How to Edit Website Details"
-date:   2014-05-12 15:06:51
-categories: jekyll update
+date:   2014-05-12 15:25:51
 ---
 
 * Head over to your alertimizer dashboard.

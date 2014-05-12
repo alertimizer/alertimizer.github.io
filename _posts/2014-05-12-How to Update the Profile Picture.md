@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "How to Update the Profile Picture"
-date:   2014-05-12 15:06:51
-categories: jekyll update
+date:   2014-05-12 15:35:51
 ---
 
 We pick up your photo directly from Gravatar.

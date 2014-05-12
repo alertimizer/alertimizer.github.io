@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "How to view the response time of the website being monitored"
-date:   2014-05-12 15:06:51
-categories: jekyll update
+date:   2014-05-12 15:56:51
 ---
 
 1. Head over to your alertimizer dashboard.

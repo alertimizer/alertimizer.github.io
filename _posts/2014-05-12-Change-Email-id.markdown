@@ -2,7 +2,6 @@
 layout: post
 title:  "How to Chage Email id?"
 date:   2014-05-12 15:06:51
-categories: jekyll update
 ---
 
 * Head over to your alertimizer dashboard.

@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "How to remove a website from your account"
-date:   2014-05-12 15:06:51
-categories: jekyll update
+date:   2014-05-12 15:46:51
 ---
 
 * Head over to your alertimizer dashboard.

@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "How to Put website to maintenance mode"
-date:   2014-05-12 15:06:51
-categories: jekyll update
+date:   2014-05-12 15:30:51
 ---
 
 * Head over to your alertimizer dashboard.

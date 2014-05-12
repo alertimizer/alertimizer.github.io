@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "How to Add more Websites for monitoring?"
-date:   2014-05-12 15:06:51
-categories: jekyll update
+date:   2014-05-12 15:12:51
 ---
 
 * Head over to your alertimizer dashboard. 

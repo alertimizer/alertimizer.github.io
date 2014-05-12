@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "How to edit which contact receives what sort of alert?"
-date:   2014-05-12 15:06:51
-categories: jekyll update
+date:   2014-05-12 15:40:51
 ---
 
 1. Head over to your alertimizer dashboard.
